@@ -1,8 +1,26 @@
-https://www.cisco.com/c/en/us/products/switches/switch-selector.html
+﻿https://www.cisco.com/c/en/us/products/switches/switch-selector.html
 https://www.cisco.com/c/en/us/products/switches/switch-comparison.html?product_id=00|03|11|16|18|19|47|48
 https://www.cisco.com/c/en/us/products/switches/campus-lan-switches-core-distribution/index.html#~products
 https://www.cisco.com/c/en/us/products/switches/campus-lan-switches-access/index.html#~products
 
 
 
-https://itprice.com/cisco-gpl/ws-c3850-24t-l
+WS-C3650-24TS-L
+C9300L-24T-4X
+
+references:
+https://netsystem.vn/distribution-switch-la-gi-chuc-nang-phan-phoi-cua-switch-nay-ra-sao/
+https://medium.com/@sylvieliu66/what-is-distribution-switch-and-why-do-we-need-it-c6978a8826b9
+https://netsystem.vn/bang-gia-price-list-core-switch-cisco-3650-cisco-3850-series-12-24-48-port/
+https://netsystem.vn/bang-gia-price-list-core-switch-cisco-9300-series-24-port-48-port/
+https://netsystem.vn/c9300l-24t-4g.html
+
+4 port: 120
+8 port: 28
+12 port: 16
+16 port: 8
+24 port: 24
+IBM x3100 M4: Máy chủ server
+Cisco ASA5506-K9: firewall
+proxy router?
+router truy cập internet?
