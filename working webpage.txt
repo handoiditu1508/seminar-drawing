@@ -1,0 +1,4 @@
+https://www.cisco.com/c/en/us/products/switches/switch-selector.html
+https://www.cisco.com/c/en/us/products/switches/switch-comparison.html?product_id=00|03|11|16|18|19|47|48
+https://www.cisco.com/c/en/us/products/switches/campus-lan-switches-core-distribution/index.html#~products
+https://www.cisco.com/c/en/us/products/switches/campus-lan-switches-access/index.html#~products
