@@ -15,12 +15,11 @@ https://netsystem.vn/bang-gia-price-list-core-switch-cisco-3650-cisco-3850-serie
 https://netsystem.vn/bang-gia-price-list-core-switch-cisco-9300-series-24-port-48-port/
 https://netsystem.vn/c9300l-24t-4g.html
 
-4 port: 120
-8 port: 28
-12 port: 16
-16 port: 8
-24 port: 24
-IBM x3100 M4: Máy chủ server
-Cisco ASA5506-K9: firewall
-proxy router?
-router truy cập internet?
+4 port: 120 TP-Link TL-SF1005D 150.000
+8 port: 28 TP-Link TL-SF1008D 170.000
+12 port: 16 TP-Link TL-SF1016D 520.000
+16 port: 8 TP-Link TL-SF1016D 520.000
+24 port: 24 TP-Link TL SF1024D 760.000
+IBM x3100 M4: Máy chủ server 17.521.000
+Cisco ASA5506-K9: firewall 11,697,000
+proxy router (xem trang 74)
